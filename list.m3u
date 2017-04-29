@@ -216,3 +216,60 @@ http://test.servicespcl.com:8000/live/test/test/2281.ts
 http://test.servicespcl.com:8000/live/test/test/2280.ts
 #EXTINF: -1 tvg-logo="#?dl=0 , Warner Channel Warner Channel
 http://test.servicespcl.com:8000/live/test/test/2279.ts
+#EXTM3U
+#EXTINF:-1 tvg-ID="Sky Action" tvg-name="SKY CINEMA ACTION HD" tvg-logo="https://s5.postimg.org/ywz60r5d3/skyactionhd.png" group-title="Movies",SKY CINEMA ACTION HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/104.m3u8
+#EXTINF:-1 tvg-ID="Sky Comedy HD" tvg-name="SKY MOVIES COMEDY HD" tvg-logo="https://s5.postimg.org/3mfw82qqv/skycomedyhd.png" group-title="Movies",SKY MOVIES COMEDY HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/100.m3u8
+#EXTINF:-1 tvg-ID="Sky Disney HD" tvg-name="SKY MOVIES DISNEY HD" tvg-logo="https://s5.postimg.org/8rh3pp3on/skydisneyhd.png" group-title="Movies",SKY MOVIES DISNEY HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/97.m3u8
+#EXTINF:-1 tvg-ID="SkyDramaRom" tvg-name="SKY MOVIES DRAMA ROMANCE HD" tvg-logo="https://s5.postimg.org/5n6fswmw7/skydramaandromhd.png" group-title="Movies",SKY MOVIES DRAMA ROMANCE HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/103.m3u8
+#EXTINF:-1 tvg-ID="Sky Family" tvg-name="SKY MOVIES FAMILY HD" tvg-logo="https://s5.postimg.org/wc7digk4n/skyfamilyhd.png" group-title="Movies",SKY MOVIES FAMILY HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/107.m3u8
+#EXTINF:-1 tvg-ID="Sky Superhero HD" tvg-name="SKY MOVIES GREATS HD" tvg-logo="https://s5.postimg.org/upi5x882v/skygreatshd.png" group-title="Movies",SKY MOVIES GREATS HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/99.m3u8
+#EXTINF:-1 tvg-ID="SkyPremiereHD" tvg-name="SKY MOVIES PREMIER HD" tvg-logo="https://s5.postimg.org/kfoxpgwyv/skypremierehd.png" group-title="Movies",SKY MOVIES PREMIER HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/98.m3u8
+#EXTINF:-1 tvg-ID="Sky ScFi/Horror8" tvg-name="SKY MOVIES SCI-FI HORROR HD" tvg-logo="https://s5.postimg.org/ze7cjwc13/skyscfihorhd.png" group-title="Movies",SKY MOVIES SCI-FI HORROR HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/105.m3u8
+#EXTINF:-1 tvg-ID="Sky Select" tvg-name="SKY MOVIES SELECT HD" tvg-logo="https://s5.postimg.org/dugt3g6hz/skyselecthd.png" group-title="Movies",SKY MOVIES SELECT HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/101.m3u8
+#EXTINF:-1 tvg-ID="Sky Showcase" tvg-name="SKY MOVIES SHOWCASE HD" tvg-logo="https://s5.postimg.org/nhkbd5zhj/skyshowcsehd.png" group-title="Movies",SKY MOVIES SHOWCASE HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/102.m3u8
+#EXTINF:-1 tvg-ID="Sky Thriller" tvg-name="SKY MOVIES THRILLER HD" tvg-logo="https://s5.postimg.org/j8tdg80dj/skythrillerhd.png" group-title="Movies",SKY MOVIES THRILLER HD
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/106.m3u8
+#EXTINF:-1 tvg-ID="Sky Comedy HD" tvg-name="UK : SKY COMEDY" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Comedy.png" group-title="Movies",UK : SKY COMEDY
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/711.m3u8
+#EXTINF:-1 tvg-ID="Sky Disney HD" tvg-name="UK : SKY DISNEY" tvg-logo="https://s5.postimg.org/j09kvirqf/skydisney.png" group-title="Movies",UK : SKY DISNEY
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/710.m3u8
+#EXTINF:-1 tvg-ID="Sky Family" tvg-name="UK : SKY FAMILY" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Family.png" group-title="Movies",UK : SKY FAMILY
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/709.m3u8
+#EXTINF:-1 tvg-ID="SkyDramaRom" tvg-name="UK : SKY MOVIES DRAMA" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Drama%20%26%20Romance.png" group-title="Movies",UK : SKY MOVIES DRAMA
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/712.m3u8
+#EXTINF:-1 tvg-ID="Sky Superhero" tvg-name="UK : SKY MODERN GREATS" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Modern%20Greats.png" group-title="Movies",UK : SKY MODERN GREATS
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/708.m3u8
+#EXTINF:-1 tvg-ID="Sky Living" tvg-name="UK : SKY MOVIES LIVING" tvg-logo="http://4u2stream.com/gallery/Sky%20Living.png" group-title="Movies",UK : SKY MOVIES LIVING
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/707.m3u8
+#EXTINF:-1 tvg-ID="SkyPremiereHD" tvg-name="UK : SKY MOVIES PREMIER" tvg-logo="https://s5.postimg.org/afu19klpj/skypremiere.png" group-title="Movies",UK : SKY MOVIES PREMIER
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/706.m3u8
+#EXTINF:-1 tvg-ID="Sky ScFi/Horror" tvg-name="UK : SKY MOVIES SCI-FI - HORROR" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Sci-Fi%20%26%20Horror.png" group-title="Movies",UK : SKY MOVIES SCI-FI - HORROR
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/703.m3u8
+#EXTINF:-1 tvg-ID="Sky Select HD" tvg-name="UK : SKY SELECT" tvg-logo="https://s5.postimg.org/kjir5q2g7/skyselect.png" group-title="Movies",UK : SKY SELECT
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/705.m3u8
+#EXTINF:-1 tvg-ID="Sky Showcase" tvg-name="UK : SKY SHOWCASE" tvg-logo="http://4u2stream.com/gallery/Sky%20Movies%20Showcase.png" group-title="Movies",UK : SKY SHOWCASE
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/704.m3u8
+#EXTINF:-1 tvg-ID="True Movies 1" tvg-name="UK : TRUE MOVIES" tvg-logo="http://4u2stream.com/gallery/True%20Movies%201.png" group-title="Movies",UK : TRUE MOVIES
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/96.m3u8
+#EXTINF:-1 tvg-ID="True Movies 2" tvg-name="UK : TRUE MOVIES 2" tvg-logo="http://4u2stream.com/gallery/True%20Movies%202.png" group-title="Movies",UK : TRUE MOVIES 2
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/95.m3u8
+#EXTINF:-1 tvg-ID="Movies 24" tvg-name="UK : MOVIES 24" tvg-logo="" group-title="Movies",UK : MOVIES 24
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/3099.m3u8
+#EXTINF:-1 tvg-ID="Movies4Men" tvg-name="UK : MOVIES 4 MEN" tvg-logo="" group-title="UK Entertainment",UK : MOVIES 4 MEN
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/3116.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="UK : SONY MOVIES" tvg-logo="" group-title="UK Entertainment",UK : SONY MOVIES
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/3097.m3u8
+#EXTINF:-1 tvg-ID="FOX Action Movies HDa" tvg-name="MY: FOX ACTION MOVIES" tvg-logo="http://s9.postimg.org/dvbinpgsf/fox_action_movies.jpg" group-title="SG/MY/ID",MY: FOX ACTION MOVIES
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/5085.m3u8
+#EXTINF:-1 tvg-ID="FOX Movies Premium" tvg-name="MY: FOX MOVIES PREMIUM" tvg-logo="https://s17.postimg.org/p6ufyq4zz/fox_movies_premium.jpg" group-title="SG/MY/ID",MY: FOX MOVIES PREMIUM
+http://lsi.ddns.me:8000/live/moviestest/A3Lrauf405/5086.m3u8
